@@ -1,0 +1,1 @@
+name="GET Filename Over 75 Characters" rule="action=get && content='text/html' && filename length 75-u" order=1 keep alert=alert type=application
