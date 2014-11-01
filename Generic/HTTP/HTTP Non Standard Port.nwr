@@ -1,0 +1,1 @@
+name="HTTP Non Standard Port" rule="service = '80' && tcp.dstport = l-97,81-u" order=3 keep alert=alert type=application
